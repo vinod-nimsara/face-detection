@@ -1,0 +1,6 @@
+path: C:\Users\vinod\Desktop\face detection 2\yolo_data
+train: train/images
+val: val/images
+
+nc: 1
+names: ['face']
